@@ -1,0 +1,16 @@
+{
+  "optinos": {
+    "enums": {
+      "options": [
+        {
+          "name": "First option",
+          "value": "other"
+        },
+        {
+          "name": "Second option",
+          "value": "other"
+        }
+      ]
+    }
+  }
+}

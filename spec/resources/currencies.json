@@ -1,0 +1,9 @@
+{
+  "currencies": {
+    "options": [
+      "USD",
+      "MYR",
+      "SGD"
+    ]
+  }
+}
